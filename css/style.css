@@ -6,60 +6,7 @@
     font-family: 'Montserrat', sans-serif;
     box-sizing: border-box;
 }
-nav {
-    background-color: #BB2649;
-    padding: 12px;
-    position: relative;
-}
-/* logo */
-.logo{
-    color: #F7F1E5;
-    text-decoration: none;
-    padding: 10px;
-    margin: 10px;
-    font-size: 22px;
-    font-weight: bold;
-    position: absolute;
-    top: -3px;
-    text-transform: uppercase;
-}
-nav ul {
-    list-style-type: none;
-    text-align: right;
-}
-nav ul li {
-    display: inline;
-    padding: 10px;
-    margin: 10px;
-    font-size: 18px;
-    font-weight: 400;
-    text-transform: uppercase;
-}
-nav ul li a {
-    color: #F7F1E5;
-    text-decoration: none;
-}
-.buscar {
-    width: 300px;
-    padding: 10px;
-    display: inline-block;
-    border: 1px solid #F7F1E5;
-    position: relative;
-}
-.btn-buscar {
-    width: 75px;
-    padding: 10px;
-    display: inline-block;
-    background-color: #F7F1E5;
-    color: #BB2649;
-    border-color: #BB2649;
-    position: relative;
-    
-}
-.btn-buscar:hover {
-    opacity: 0.8;
-}
-
+/* */
 .bg-bienvenida{
     background-image: url('../assets/IMG-1.jpg');
     background-position: center;
